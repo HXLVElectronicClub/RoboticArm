@@ -1,3 +1,9 @@
+Above is a picture of the game court, Robotic arm will be fixed on both side of the board, in the middle it's a net.
+Each side has 3 blocks(red), the target of the game is to move all the blocks to opponent's side.
+Blocks initially should be put into any of the circles, player cannot touch any object within the game board unless to reposition their block back to any of the circles.
+Violator will be punished from operation for 10 second.
+Before the game, chose side by flip a coin. There are 3 round in a game, whoever gets 2 wins.
+
 
 中文:
 
